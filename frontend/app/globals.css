@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-slate-100 text-slate-900;
+}
+
+.ipad-frame {
+  background: linear-gradient(160deg, #0f1b3d 0%, #1f3a7a 45%, #2a6cf4 100%);
+}
