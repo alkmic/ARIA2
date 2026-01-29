@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlmodel
+pandas
+openpyxl
+python-dotenv
+pydantic
+pytest
+requests
+feedparser
+sentence-transformers
+faiss-cpu
+pypdf
